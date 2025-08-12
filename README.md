@@ -12,4 +12,4 @@ Check out the [IVExES](https://pages.faigle.dev/ivexes)-Project (Inteligent Vuln
 
 ## Interaktive Map with Filtering
 
-Small weekend project [BS-Map](https://pages.faigle.dev/ivexes)
+Small weekend project [BS-Map](https://pages.faigle.dev/bs.map)
