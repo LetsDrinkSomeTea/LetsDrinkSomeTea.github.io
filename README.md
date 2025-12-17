@@ -14,6 +14,10 @@ Check out the [IVExES](https://pages.faigle.dev/ivexes)-Project (Inteligent Vuln
 
 Small weekend project [BS-Map](https://pages.faigle.dev/bs.map)
 
+## Biergartenradius
+
+Tests mit Vibe-Coding [Biergartenradius](https://pages.faigle.dev/biergartenradius/)
+
 ## Altersprüfung 
 Für Marc, der nicht rechnen will.
 [Link](https://pages.faigle.dev/alterspruefung/)
