@@ -1,6 +1,6 @@
 # My Page
 
-Welcome to `pages.faigle.dev`
+Welcome to `pages.faigle.dev` a collection of bookmarks of my GitHub Pages
 
 ## Travel Diary
 
@@ -21,3 +21,7 @@ Tests mit Vibe-Coding [Biergartenradius](https://pages.faigle.dev/biergartenradi
 ## Altersprüfung 
 Für Marc, der nicht rechnen will.
 [Link](https://pages.faigle.dev/alterspruefung/)
+
+## Elevation of Privilege
+
+Digitale Version des Kartenspiels von Microsoft [EoP](https://pages.faigle.dev/elevation-of-privilege)
